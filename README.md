@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome to @CodeMechanicsLLC!
-- 👀 Glad you're here! This GitHub repo is for robotics/CS tutorials and reviews for paid online courses in CS discplines.
+- 👀 Glad you're here! This GitHub repo is for robotics/CS tutorials and reviews for paid online courses in CS disciplines.
 - 🌱 New to Robotics and/or Computer Science? Be sure to look around and take a gander at our accompanying YouTube channel!
 - 📫 Drop a line to codemechanicsllc at gmail dot com.
 - 😄 Hope you're as excited to learn as we are to teach!
